@@ -4,12 +4,12 @@ Parser infrastructure for the TypeScript stack. Apache 2.0. No VC, no corporate 
 
 ## Projects
 
-- [pegmill](https://github.com/pegmill/pegmill) — PEG parser generator with parametric rules. Drop-in for PEG.js 0.10.0. `npm install pegmill`.
+- [pegmill](https://github.com/pegmill/pegmill) — PEG parser generator with parametric rules. Drop-in for PEG.js 0.10.0. Ships on npm: `npm install pegmill` (latest: v0.1.3 with TypeScript declarations and esbuild browser bundle).
 - [pegmill.github.io](https://pegmill.github.io/) — landing with roadmap and comparison against Outlines, XGrammar, and llama.cpp GBNF.
 
 ## Why this exists
 
-Constrained decoding for open-weight LLMs lives in Python (Outlines) or C++ (XGrammar, llama.cpp GBNF). TypeScript has no equivalent with full PEG expressiveness. Pegmill fills that gap.
+Constrained decoding for open-weight LLMs lives in Python (Outlines) or C++ (llama.cpp GBNF; XGrammar ships C++ with JS via emscripten build, no npm package). TypeScript has no equivalent with full PEG expressiveness. Pegmill fills that gap.
 
 ## Support
 
