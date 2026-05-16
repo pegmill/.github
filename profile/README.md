@@ -1,6 +1,6 @@
 # peg ::= mill
 
-Parser infrastructure for the TypeScript stack. Apache 2.0. No VC, no corporate sponsor.
+Parser infrastructure for the TypeScript stack. Apache 2.0. Independently funded, sustainable through OSS-aligned commercial services.
 
 ## Projects
 
@@ -13,4 +13,4 @@ Constrained decoding for open-weight LLMs lives in Python (Outlines) or C++ (lla
 
 ## Support
 
-A star helps. A link from your own project docs helps more. [GitHub Sponsors](https://github.com/sponsors/zag) and `zag@cpan.org` for anything bigger.
+A star helps. A link from your own project docs helps more. [GitHub Sponsors](https://github.com/sponsors/zag) and `hello@pegmill.dev` for anything bigger.
